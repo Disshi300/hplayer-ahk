@@ -22,7 +22,7 @@ This is a **Click Player**, You feed the click data into it and it will replay i
 
 ## Usage
 To use the AutoHotkey Click Player, follow these steps:
-1. **Download AutoHotkey V1.1**: [AutoHotkey V1.1 Download](https://www.autohotkey.com/download/ahk-install.exe)
+1. **Download [AutoHotkey V1.1](https://www.autohotkey.com/download/ahk-install.exe)**
 2. **Clone this repository or download as a zip file.**:
     ```bash
     git clone https://github.com/Disshi300/hplayer-ahk.git
