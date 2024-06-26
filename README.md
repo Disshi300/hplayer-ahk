@@ -28,9 +28,9 @@ To use the AutoHotkey Click Player, follow these steps:
     ```bash
     git clone https://github.com/Disshi300/hplayer-ahk.git
     ```
-3. Open the `Source.ahk` script in any text editor.
-4. Modify the script as needed.
-5. Save the changes and double-click the script to run it.
+3. **Open the `Source.ahk` script in any text editor.**
+4. **Modify the script as needed.**
+5. **Save the changes and double-click the script to run it.**
 
 ## Configuration
 You can customize the following parameters in the script:
